@@ -14,7 +14,6 @@
     "axios": "^0.27.2",
     "element-plus": "^2.2.14",
     "pinia": "^2.0.17",
-    "tomtaw-authority": "^0.0.41",
     "vue": "^3.2.37",
     "vue-router": "^4.1.3"
   },
