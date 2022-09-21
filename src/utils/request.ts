@@ -9,7 +9,7 @@ class Request{
     instance:AxiosInstance //axios 实例
     //基础配置，url和超时时间
     baseConfig: AxiosRequestConfig={
-        baseURL:configUrl.apiUrl,
+        baseURL: 'http://localhost:8080/',
         timeout:60000,
         headers:{
             "Content-Type":"application/json;charset=UTF-8",
