@@ -17,7 +17,7 @@ const router = createRouter({
           path:'archive-record',
           name:'datasearch',
           meta:{
-            title:"数据查询"
+            title:"记录查询"
           },
           component: ()=>import("@/views/archive-record/index.vue")
         }
