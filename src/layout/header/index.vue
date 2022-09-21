@@ -1,8 +1,8 @@
 <template>
     <header class="theheader">
-        <div class="fl logo">区域影像系统升级改造（含云影像服务）</div>
+        <div class="fl logo">logo</div>
         <div class="fr pr10">
-            <div class="username flex-center"><i class="mr10"><img src="@/assets/doctor_boy.png"/></i>影像中心系统管理员</div>
+            <div class="username flex-center"><i class="mr10"><img src="@/assets/doctor_boy.png"/></i>系统管理员</div>
         </div>
     </header>
 </template>
