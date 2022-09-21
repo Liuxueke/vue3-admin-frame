@@ -4,7 +4,7 @@ import {ref} from 'vue'
 
 let tableColumn=[
     {label:"序号",type:"index",width:60},
-    {label:"病历号",prop:"index"},
+    {label:"操作",prop:"opt"},
 ];
 let tableData=[];
 let total=ref(0)
