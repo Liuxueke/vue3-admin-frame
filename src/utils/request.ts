@@ -48,7 +48,7 @@ class Request{
     }
     //常用方法
     get<T=any>(url:string,params?:object):Promise<ResultData<T>>{
-        return this.instance.get(`${url}`,{params});
+        return this.instance.get(`${url}`,params);
     }
 }
 
